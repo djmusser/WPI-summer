@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>David Musser's WPI summer 2023</title>
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="all" href="styles.css">
+    <link type="text/css" rel="stylesheet" href="tswnavbar.css">
+  </head>
+  <body id="color">
+    <div id="tswcontainer">
+      <div id="tswheader">
+        <!-- start of header section: insert your logo, etc, here -->
+        <div style="text-align: center;"> <a href="index.html"><img src="images/0p3G1Agu_400x400.jpg"
+              alt="Davids Logo" id="logo" style="width: 289px; height: 289px;"></a>
+        </div>
+        <!-- end of header section: insert your logo, etc, above this line --> </div>
+      <div id="tswcontent">
+        <div id="tswcontproper">
+          <!-- start of content column: insert your content here -->
+          <h1 style="color: #032668;"><b>David's Summer WPI Website</b></h1>
+          <h2 style="color: #032668"><b> About David Musser</b></h2>
+          <p><i>My name is David Musser, I am 15 years old and I live in Albany
+              NY. I enjoy riding my bike, swimming, playing sports and hanging
+              out with my friends. I will be a Junior at Shaker High School next
+              year. I also have 2 dogs named Rory and Seaver. The summer is my
+              favorite season because I can do my favorite things like swimming,
+              going to the beach and hanging outside with my friends. I also
+              love summer because it means that I don't have to go to school.
+              This Summer I will be going to Italy to see my grandparents and
+              Cape Cod with my cousins, I also have a pool which I will be in a
+              lot since it will be very warm. I am looking for a lifeguaring job
+              since I was recently certified by the American Red Cross. &nbsp;</i></p>
+          <img src="images/romantic-tropical-beach-with-villa-and-palms-during-beautiful-sunset-picjumbo-com.jpg"
+            alt="Beach " style="width: 395px; height: 260px;"><img src="images/track_running_lanes_199374.jpg"
+            alt="Track" style="width: 390px; height: 260px;"><img src="images/istockphoto-164569711-612x612.jpg"
+            alt="Bike" style="width: 264px; height: 259px;">
+          <p>&nbsp;</p>
+          <!-- end of content column: put your content above this line --> </div>
+      </div>
+      <div id="tswsidecol">
+        <div id="tswsideproper">
+          <!-- start of side column: insert your navigation menu, etc, here -->
+          <div id="tswcssbuttons">
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="lifeguard.html"><span style="color: white;">Lifeguard</span></a></li>
+              <li><span style=" color: white;"><a href="sports.html">Sports</a><br>
+                </span></li>
+              <li><span style=" color: white;"><a href="italy.html">Italy</a></span></li>
+              <li><span style=" color: white;"><a href="tswnavbar.css"></a></span><a
+                  href="contact.html">Contact</a></li>
+              <li><a href="sitemap.html">Site Map</a></li>
+              <li><br>
+              </li>
+            </ul>
+          </div>
+          <!-- end of side column: put your navigation menu, etc, above this line -->
+        </div>
+      </div>
+      <div style="clear: both;"></div>
+      <div id="tswfooter">
+        <!-- start of footer section: insert your copyright notice, etc, here -->
+        <p>This page was last updated 6/26/23.</p>
+        <!-- end of footer section: insert your copyright notice, etc, above this line -->
+      </div>
+    </div>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+  </body>
+</html>
