@@ -13,10 +13,8 @@
     <div id="tswcontainer">
       <div id="tswheader">
         <!-- start of header section: insert your logo, etc, here -->
-        <div style="text-align: center;"> <a href="index.html"><img src="images/0p3G1Agu_400x400.jpg"
-
-              alt="Davids Logo" id="logo" style="width: 289px; height: 289px;"></a>
-        </div>
+        <div style="text-align: center;"> <a href="index.html"><img src="images/brandingshakerbisonlg.gif"
+              alt="Bison" style="width: 287px; height: 287px;"></a> </div>
         <!-- end of header section: insert your logo, etc, above this line --> </div>
       <div id="tswcontent">
         <div id="tswcontproper">
@@ -41,8 +39,7 @@
               <li><span style=" color: white;"><a href="sports.html">Sports</a><br>
                 </span></li>
               <li><span style=" color: white;"><a href="italy.html">Italy</a></span></li>
-              <li><span style=" color: white;"><a href="tswnavbar.css"></a></span><a
-
+              <li><span style=" color: white;"><a href="tswnavbar.css"></a></span><a
                   href="contact.html">Contact</a></li>
               <li><a href="sitemap.html">Site Map</a></li>
               <li><a href="dogPage.html"><span style="color: white;">Dogs</span></a></li>
@@ -56,7 +53,7 @@
       <div style="clear: both;"></div>
       <div id="tswfooter">
         <!-- start of footer section: insert your copyright notice, etc, here -->
-        <p>This page was last updated 6/26/23.</p>
+        <p>This page was last updated 6/28/23.</p>
         <!-- end of footer section: insert your copyright notice, etc, above this line -->
       </div>
     </div>
