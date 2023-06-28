@@ -20,23 +20,15 @@
       <div id="tswcontent">
         <div id="tswcontproper">
           <!-- start of content column: insert your content here -->
-          <h1 style="color: #032668;"><b>David's Summer WPI Website</b></h1>
-          <h2 style="color: #032668"><b> About David Musser</b></h2>
-          <p><i>My name is David Musser, I am 15 years old and I live in Albany
-              NY. I enjoy riding my bike, swimming, playing sports and hanging
-              out with my friends. I will be a Junior at Shaker High School next
-              year. I also have 2 dogs named Rory and Seaver. The summer is my
-              favorite season because I can do my favorite things like swimming,
-              going to the beach and hanging outside with my friends. I also
-              love summer because it means that I don't have to go to school.
-              This Summer I will be going to Italy to see my grandparents and
-              Cape Cod with my cousins, I also have a pool which I will be in a
-              lot since it will be very warm. I am looking for a lifeguaring job
-              since I was recently certified by the American Red Cross. &nbsp;</i></p>
-          <img src="images/romantic-tropical-beach-with-villa-and-palms-during-beautiful-sunset-picjumbo-com.jpg"
-            alt="Beach " style="width: 395px; height: 260px;"><img src="images/track_running_lanes_199374.jpg"
-            alt="Track" style="width: 390px; height: 260px;"><img src="images/istockphoto-164569711-612x612.jpg"
-            alt="Bike" style="width: 264px; height: 259px;">
+          <h1 style="color: #032668;">Italy </h1>
+          <p>This summer my family and I are going to Italy to visit my
+            grandparents who have a house in Gualdo Tadino. We are flying to
+            Venice from Montreal and then after a few days we will take a train
+            down to Gualdo Tadino. It will be very hot in Italy this summer but
+            it will till be a very fun trip and I am really excited. </p>
+          <img src="images/R%20%285%29.png" alt="Gualdo" style="width: 304px; height: 154px;"><img
+            src="images/R%20%284%29.png" alt="Venice" style="width: 313px; height: 195px;"><img
+            src="images/R%20%286%29.png" alt="Italian flag" style="width: 375px; height: 218px;"><br>
           <p>&nbsp;</p>
           <!-- end of content column: put your content above this line --> </div>
       </div>
@@ -63,7 +55,7 @@
       <div style="clear: both;"></div>
       <div id="tswfooter">
         <!-- start of footer section: insert your copyright notice, etc, here -->
-        <p>This page was last updated 6/26/23.</p>
+        <p>This page was last updated 6/27/23.</p>
         <!-- end of footer section: insert your copyright notice, etc, above this line -->
       </div>
     </div>

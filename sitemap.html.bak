@@ -36,10 +36,10 @@
           <div id="tswcssbuttons">
             <ul>
               <li><a href="index.html">Home</a></li>
-              <li><a href="tswnavbar.css"><span style="color: white;">Lifeguard</span></a></li>
-              <li><span style=" color: white;"><a href="tswnavbar.css">Sports</a><br>
+              <li><a href="lifeguard.html"><span style="color: white;">Lifeguard</span></a></li>
+              <li><span style=" color: white;"><a href="sports.html">Sports</a><br>
                 </span></li>
-              <li><span style=" color: white;"><a href="tswnavbar.css">Italy</a></span></li>
+              <li><span style=" color: white;"><a href="italy.html">Italy</a></span></li>
               <li><span style=" color: white;"><a href="tswnavbar.css"></a></span><a
                   href="feedback.html">Contact</a></li>
               <li><a href="sitemap.html">Site Map</a></li>
