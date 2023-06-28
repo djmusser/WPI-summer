@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" media="all" href="styles.css">
     <link type="text/css" rel="stylesheet" href="tswnavbar.css">
   </head>
-  <body id="color">
+  <body>
     <div id="tswcontainer">
       <div id="tswheader">
         <!-- start of header section: insert your logo, etc, here -->
@@ -20,15 +20,15 @@
       <div id="tswcontent">
         <div id="tswcontproper">
           <!-- start of content column: insert your content here -->
-          <h1 style="color: #032668;">My Dogs</h1>
-          <h2 style="color: #032668">Seaver</h2>
-          <p>Seaver Is a 2 year old half black lab and half golden retriever. We
-            got him from our family friends and he is very big. Seaver is lso
-            very gentle and kind and loves playing with his humans.</p>
-          <h2>Rory</h2>
-          Rory is a 3 year old mixed breed dog that was born in Tennessee. She
-          is very cute and nice but uses her vocal chords a lot. She thinks she
-          is much bigger than she actually is. <br>
+          <h1 style="color: #032668;"><b>My Dogs</b></h1>
+          <h2 style="color: #032668"><b>Seaver</b></h2>
+          <p><i>Seaver Is a 2 year old half black lab and half golden retriever.
+              We got him from our family friends and he is very big. Seaver is
+              lso very gentle and kind and loves playing with his humans.</i></p>
+          <h2><b id="color">Rory</b></h2>
+          <i> Rory is a 3 year old mixed breed dog that was born in Tennessee.
+            She is very cute and nice but uses her vocal chords a lot. She
+            thinks she is much bigger than she actually is. </i><br>
           <p><br>
           </p>
           <p>&nbsp;</p>

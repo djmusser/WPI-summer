@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>Lifeguarding</title>
+    <title>Lifeguard</title>
     <meta http-equiv="Content-Style-Type" content="text/css">
     <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -50,6 +50,7 @@
 
                   href="contact.html">Contact</a></li>
               <li><a href="sitemap.html">Site Map</a></li>
+              <li><a href="dogPage.html"><span style="color: white;">Dogs</span></a></li>
               <li><br>
               </li>
             </ul>
