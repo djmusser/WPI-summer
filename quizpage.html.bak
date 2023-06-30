@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="google_translate_element"></div>
+    <script type="text/javascript"> 
+        function googleTranslateElementInit() { 
+            new google.translate.TranslateElement(
+                {pageLanguage: 'en'}, 
+                'google_translate_element'
+            ); 
+// define the object for the question entity
+let question = {
+    title: 'gato',
+    alternatives: ['dog', 'cat', 'bird', 'fish'],
+    correctAnswer: 1
+  };
+
+  // function for showing the question
+function showQuestion(q) {
+    // code
+    let titleDiv = document.getElementById('title');
+    titleDiv.textContent = q.title;
+
+    let answerDiv = document.getElementById('answer');
+   
+
+     // new code
+  let alts = document.querySelectorAll('.alternative');
+  console.log(alts);
+  alts.forEach(function(element, index){
+    element.textContent = q.alternatives[index];
+    element.addEventListener('click', function(){
+        if (q.correctAnswer == index) {
+          console.log('Correct Answer!');
+          answerDiv.textContent = "Correct answer!";
+        } else {
+          console.log('Wrong Answer!');
+          answerDiv.textContent = "Wrong answer!";
+        }
+      });
+});
+
+}
+  // call the function
+  showQuestion(question);
